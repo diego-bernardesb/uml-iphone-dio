@@ -1,7 +1,4 @@
-import iphone.navegador.Safari;
-import iphone.reprodutorMusical.Ipod;
 import iphone.smartphone.Iphone;
-import iphone.telefone.IphoneChamadas;
 
 public class Main {
     public static void main(String[] args) {
